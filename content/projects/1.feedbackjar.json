@@ -1,8 +1,8 @@
 {
-  "name": "Feedbackjar",
-  "url": "https://feedbackjar.app",
-  "description": "Open source feedback, roadmaps and changelogs",
-  "thumbnail": "/projects/feedbackjar.png",
-  "status": "WIP",
-  "opensource": true
+  "name": "QuranGPT",
+  "url": "https://qurangpt.uz",
+  "description": "AI app that gives you ayahs from Quran based on your mood",
+  "thumbnail": "/projects/qurangpt.png",
+  "status": "Active",
+  "opensource": false
 }
